@@ -6,3 +6,4 @@ server:
   port: 8080
 
 service_b.url: "http://localhost:8090/message"
+logfile: "/var/log/service-a.log"
